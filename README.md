@@ -11,7 +11,7 @@ The Global Weather App is a React application that provides real-time weather up
 
 ## Preview
 
-![Application Screenshot](./assets/application.png)
+![Application Screenshot](./src/assets/application.png)
 
 ## Getting Started
 
