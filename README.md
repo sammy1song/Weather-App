@@ -37,7 +37,7 @@ The application will start locally on port 3000.
 
 ## Author
 
-TODO: Your name
+Sammy Saekyul Song
 
 ## License
 
